@@ -1,14 +1,9 @@
-import { ArrowIcon, ChatIcon } from "./svg";
-
-
-
-
+import { DocumentIcon } from "./svg";
 
 function App() {
   return (
-    <div className="App">
-      <h1>hi</h1>
-
+    <div>
+      <DocumentIcon className="fill-blue-600" />
     </div>
   );
 }

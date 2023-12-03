@@ -12,3 +12,4 @@ function SearchLargeIcon({ className }) {
 }
 
 export default SearchLargeIcon;
+
